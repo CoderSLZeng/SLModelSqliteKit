@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SLModelSqliteKit_Example' do
+  pod 'SLModelSqliteKit', :path => '../'
+
+  target 'SLModelSqliteKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
