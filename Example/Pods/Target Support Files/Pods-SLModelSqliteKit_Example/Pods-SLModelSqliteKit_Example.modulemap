@@ -1,0 +1,6 @@
+framework module Pods_SLModelSqliteKit_Example {
+  umbrella header "Pods-SLModelSqliteKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
